@@ -1,7 +1,7 @@
 {
   "name": "platzi-dir",
   "version": "1.0.0",
-  "description": "",
+  "description": "curso basico de graphql",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
